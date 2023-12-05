@@ -35,7 +35,7 @@ https://cocinando-online.netlify.app
 
 ---------------------------------------------------------------
 
-😉​ Licencia para todos
+😉​ Licencia para todos ustedes
 
 Nuestro proyecto es de carácter Open Source. Si lo usás, por favor citar a los creadores.
 
